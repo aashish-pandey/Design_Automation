@@ -1,0 +1,9 @@
+Random seed = 42
+T0 = 10
+Tfreez = 0.1
+NUM_MOVES_PER_TEMP_STEP = 100
+k = 1
+cool_down_factor = 0.999
+
+
+optimal_cost = 1846
