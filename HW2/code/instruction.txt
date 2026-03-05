@@ -1,0 +1,3 @@
+Terminal commands to run the code:
+    g++ AstarV1.cpp -o AstarV1
+    ./AstarV1

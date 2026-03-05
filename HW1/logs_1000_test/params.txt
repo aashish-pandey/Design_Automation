@@ -1,0 +1,10 @@
+Random seed = 42
+T0 = 100
+Tfreez = 0.1
+NUM_MOVES_PER_TEMP_STEP = 500
+k = 1
+cool_down_factor = 0.99
+
+optimal_cost = 4777
+runtime = 3161.21 seconds
+peak_memory_usage = 1.71 MB
